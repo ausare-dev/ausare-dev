@@ -7,10 +7,6 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=ausare-dev&theme=transparent&show_icons=true&include_all_commits=true&hide_border=true" alt="Ausare-dev's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ausare-dev&layout=compact&theme=transparent&hide_border=true" /> |
 | ------------- | ------------- |
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ausare-dev&locale=en&mode=daily&theme=transparent&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
