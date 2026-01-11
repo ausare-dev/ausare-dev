@@ -67,9 +67,14 @@
 
 ### 📊 Github Stats
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=ausare-dev&show_icons=true&theme=github_dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=ausare-dev&theme=github_dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ausare-dev&layout=compact&theme=github_dark)
+<p align="center">
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=ausare-dev&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ausare-dev&layout=compact&theme=github_dark" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=ausare-dev&theme=github_dark" alt="GitHub Streak" />
+</p>
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
