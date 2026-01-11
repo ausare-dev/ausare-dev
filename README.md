@@ -68,6 +68,10 @@
 ### 📊 Github Stats
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ausare-dev&theme=github-dark&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
   <img height="195" src="https://github-readme-stats-fast.vercel.app/api?username=ausare-dev&show_icons=true&theme=github_dark&card_height=195" alt="GitHub Stats" style="height: 195px !important;" />
   <img height="195" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ausare-dev&layout=compact&theme=github_dark&card_height=195" alt="Top Languages" style="height: 195px !important;" />
 </p>
