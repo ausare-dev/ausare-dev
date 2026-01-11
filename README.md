@@ -68,8 +68,8 @@
 ### 📊 Github Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=ausare-dev&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ausare-dev&layout=compact&theme=github_dark" alt="Top Languages" />
+  <img height="195" src="https://github-readme-stats-fast.vercel.app/api?username=ausare-dev&show_icons=true&theme=github_dark&card_height=195" alt="GitHub Stats" style="height: 195px !important;" />
+  <img height="195" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ausare-dev&layout=compact&theme=github_dark&card_height=195" alt="Top Languages" style="height: 195px !important;" />
 </p>
 
 <p align="center">
