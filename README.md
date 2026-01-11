@@ -87,7 +87,7 @@
 ### 💭 Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" alt="Dev Quote" />
 </p>
 
 ### 🤡 Random Dev Joke
