@@ -67,12 +67,9 @@
 
 ### 📊 Github Stats
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ausare-dev&theme=transparent&show_icons=true&include_all_commits=true&hide_border=true" alt="Ausare-dev's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ausare-dev&layout=compact&theme=transparent&hide_border=true" /> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ausare-dev&" alt="ausare-dev" />
-</p>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=ausare-dev&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=ausare-dev&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ausare-dev&layout=compact&theme=github_dark)
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
