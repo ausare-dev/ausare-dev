@@ -83,3 +83,15 @@
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
+
+### 💭 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</p>
+
+### 🤡 Random Dev Joke
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?bgColor=%230d1117&textColor=%23c9d1d9&aColor=%2358a6ff&borderColor=%2330363d&qColor=%2358a6ff&codeColor=%23f0883e" alt="Jokes Card" />
+</p>
