@@ -1,4 +1,4 @@
-### 🔨 My Stack
+### 🛠️ My Stack
 
 #### Languages & Tools
 
